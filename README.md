@@ -13,12 +13,16 @@
 ### 温湿度预测模型
 
 本地CSV数据预处理：run wentai_data_preprocessing.ipynb
+
 再训练稳态温湿度预测模型：run wentai_HT_trainSave.ipynb
+
 送风温湿度预测：run wentai_HT_pred.ipynb
 
 
 #### 能耗预测分析
 
 本地CSV数据预处理：run wentai_data_preprocessing.ipynb
+
 再训练稳态能耗预测模型：run wentai_HT_trainSave.ipynb
+
 能耗预测：run wentai_energy_pred.ipynb
